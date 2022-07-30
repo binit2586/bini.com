@@ -6,7 +6,7 @@ its_your_boii_biniii...
 <TABLE>
 <CAPTION><H3>LETS MAKE A PROMISE..</H3></CAPTION>
 <TR><TH>TO<TH>ALWAYS<TH>BEE</TR>
-<TR><TD>WITH</TD><TD>EACH</TD><TD>OTHER</TD></TABLE></CENTER>
+<TR><TD>WITH</TD><TD>EACH</TD><TD>OTHER</TD>
 <P>
 ,,,,,,,,,,,,,,<BR>
 .( * . * ).<BR>
