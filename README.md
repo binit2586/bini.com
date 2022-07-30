@@ -7,7 +7,7 @@ its_your_boii_biniii...
 <TABLE>
 <CAPTION><H3>LETS MAKE A PROMISE..</H3></CAPTION>
 <TR><TH>TO<TH>ALWAYS<TH>BEE</TR>
-<TR><TD>CLOSE</TD><TD>TO</TD><TD>EACH_OTHER/TD></TABLE></CENTER>
+<TR><TD>CLOSE</TD><TD>TO</TD><TD>EACH_OTHER</TD></TABLE></CENTER>
 <P>
 ,,,,,,,,,,,,,,<BR>
 .( * . * ).<BR>
